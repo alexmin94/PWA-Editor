@@ -4,7 +4,6 @@
   ## Table of Contents
   - [User Story](#userstory)
   - [Description](#description)
-  - [Demonstration](#demonstration)
   - [Installation](#installation)
   - [Contributing](#contributing)
   - [Repository](#repository)
@@ -21,21 +20,9 @@ SO THAT I can reliably retrieve them for later use
  With This Application, A User:
 
 - Should see a client server folder structure
-- Can find that the JavaScript files have been bundled using webpack
-- 
-- Start a server and the Sequelize models are synced to the MySQL database.
-- See the data for each of these routes is displayed in a formatted JSON.
-- successfully create, update, and delete data in my database
-- Add a role, an employee or a department.
-
-  ## Demonstration
-
-  - [Click for Live Demo](https://drive.google.com/file/d/1nCcUNUX7NNNZeekvA5MQ5RfTyXz1xaPU/view)
-
-  <img width="1440" alt="Screen Shot 2023-08-17 at 10 18 47 PM" src="https://github.com/alexmin94/React-Portfolio/assets/127912422/6c5acf30-c521-43a4-9866-cd17741b0672"> 
-
-
-
+- Will find that the app should start up the backend and serve the client.
+- Can find that the JavaScript files have been bundled using webpack.
+- Can find that they have a generated HTML file, service worker, and a manifest file
 
   ## Installation
   To install dependencies, run:
@@ -44,11 +31,11 @@ SO THAT I can reliably retrieve them for later use
   ```
 
   ## Contributing
-  No front-end files required
+  No contributions required
 
   ## Repository
   To check out my repo, click the link below:
-  - [My Repository](https://github.com/alexmin94/ORM)
+  - [My Repository](https://github.com/alexmin94/PWA-Editor)
 
 
   ## Questions
