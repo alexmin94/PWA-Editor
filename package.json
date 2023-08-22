@@ -12,7 +12,8 @@
     "client": "cd client && npm start"
   },
   "engines": {
-    "node": "18.x"
+    "node": "18.x",
+    "npm": "7.x"
   },
   "keywords": [],
   "author": "",
